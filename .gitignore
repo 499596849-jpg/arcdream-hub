@@ -1,0 +1,23 @@
+# 数据与隐私
+# 任何真实数据、密钥、人设卡都不进仓库/发布包
+data/
+config.json
+*.enc
+*.dpapi
+*.key
+persona/
+index/
+logs/
+backups/
+
+# 依赖与构建
+node_modules/
+dist/
+*.log
+.DS_Store
+Thumbs.db
+
+# 本机配置
+.env
+.env.*
+release-local/
