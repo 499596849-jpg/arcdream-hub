@@ -1,0 +1,23 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-label="ArcDream Hub">
+  <defs>
+    <radialGradient id="core" cx="38%" cy="32%" r="70%">
+      <stop offset="0" stop-color="#eafdff"/>
+      <stop offset="35%" stop-color="#38e8ff"/>
+      <stop offset="75%" stop-color="#1a6fd4"/>
+      <stop offset="100%" stop-color="#0a1a3a"/>
+    </radialGradient>
+  </defs>
+  <rect width="64" height="64" rx="14" fill="#050b14"/>
+  <polygon points="32,7 54,19 54,45 32,57 10,45 10,19" fill="none" stroke="#38e8ff" stroke-width="1.6" opacity=".55"/>
+  <polygon points="32,14 47,22.5 47,41.5 32,50 17,41.5 17,22.5" fill="none" stroke="#ffcf7a" stroke-width="1" opacity=".35"/>
+  <circle cx="32" cy="32" r="11" fill="url(#core)"/>
+  <circle cx="32" cy="32" r="3.2" fill="#f4ffff"/>
+  <g stroke="#38e8ff" stroke-width="1.4" opacity=".8">
+    <line x1="32" y1="20" x2="32" y2="24"/>
+    <line x1="32" y1="40" x2="32" y2="44"/>
+    <line x1="20.5" y1="26" x2="24.2" y2="28"/>
+    <line x1="39.8" y1="36" x2="43.5" y2="38"/>
+    <line x1="20.5" y1="38" x2="24.2" y2="36"/>
+    <line x1="39.8" y1="28" x2="43.5" y2="26"/>
+  </g>
+</svg>
