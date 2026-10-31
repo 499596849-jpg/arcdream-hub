@@ -1,0 +1,4 @@
+- insert:
+    - id: dsh-arc-hub
+      name: dsh-arc-hub
+      config: { hubRoot: "" }
